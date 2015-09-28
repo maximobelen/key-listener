@@ -13,8 +13,7 @@ A handler for adding listeners to key events without taking care of keys codes.
   });
   //This is going write Hello World when the letter 'a' is pressed.
 
-  
-  If you really want to work with the codes and add your function as you like...
+  //If you really want to work with the codes and add your function as you like...
 
   handler.getKey('backspace'); // 8
   handler.getKey(16); // shift
