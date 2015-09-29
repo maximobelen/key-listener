@@ -1,6 +1,6 @@
 {
   "name": "key-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A handler for adding listeners to key events",
   "main": "index.js",
   "scripts": {
